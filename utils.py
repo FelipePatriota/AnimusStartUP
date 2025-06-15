@@ -1,1 +1,0 @@
-def verificar_postura(pontos):
